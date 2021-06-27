@@ -1,1 +1,1 @@
-This is an intermediate level repository which condatins a R script and project about Shiny. While you are browsing this repo you can understand basics of reactivity, how to build an app is made of ui and server. Do not be shy to fork and make contribution.
+This is an intermediate level repository which contains an R script about Shiny. While you are browsing this repo you can understand basics of reactivity, how to build an app is made of ui and server. Do not be shy to fork and make contribution.
